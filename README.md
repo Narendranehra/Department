@@ -1,3 +1,4 @@
 # Department
 Civil
 Electrical
+Physics
