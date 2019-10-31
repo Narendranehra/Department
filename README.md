@@ -1,2 +1,3 @@
 # Department
 Civil
+Electrical
