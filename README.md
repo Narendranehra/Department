@@ -4,3 +4,4 @@ Electrical
 Physics
 Computer science
 biotechnology
+chemistry
